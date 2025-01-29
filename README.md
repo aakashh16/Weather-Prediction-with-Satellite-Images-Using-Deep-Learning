@@ -16,7 +16,7 @@ This approach allows for faster and more localized predictions, making it a powe
 # Dataset
 We use publicly available satellite imagery datasets to train and validate our deep learning models.
 
-(Dataset document is uploaded in the repository.)
+(Dataset is available in the repository.)
 
 # Code
 The implementation includes:
@@ -25,7 +25,7 @@ The implementation includes:
 - Training and Evaluation: Using historical data to optimize model accuracy.
 - Visualization & Prediction: Graphical analysis of predictions vs. actual weather data.
 
-(Code will be added in the repository.)
+(Code file is available in the repository.)
 
 
 
