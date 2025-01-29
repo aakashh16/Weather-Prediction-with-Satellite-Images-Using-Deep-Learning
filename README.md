@@ -1,9 +1,9 @@
 # Weather-Prediction-with-Satellite-Images-Using-Deep-Learning
 
 # Overview
-Weather prediction plays a crucial role in various fields such as agriculture, disaster management, and transportation. Traditional forecasting methods rely on numerical models that require extensive computational resources and often struggle with short-term predictions. This project leverages deep learning techniques, particularly CNNs (Convolutional Neural Networks), to analyze satellite images and predict weather patterns more accurately.
+This project leverages deep learning and Python to analyze satellite images for weather prediction. Traditional forecasting models rely on numerical weather prediction (NWP) methods, which require high computational power and struggle with short-term forecasting. In contrast, our approach uses Convolutional Neural Networks (CNNs) and Python-based machine learning frameworks to improve forecasting accuracy.
 
-This approach allows for faster and more localized predictions, making it a powerful alternative to conventional meteorological models. The project utilizes satellite images to identify weather conditions like cloud formations, temperature variations, and atmospheric changes, which are then processed using deep learning models to generate accurate forecasts.
+By processing real-time satellite imagery, the model identifies atmospheric conditions such as cloud formations, temperature variations, and humidity, allowing for more accurate short-term predictions.
 
 
 # Objectives
