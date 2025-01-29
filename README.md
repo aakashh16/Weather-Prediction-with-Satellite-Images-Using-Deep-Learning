@@ -27,7 +27,14 @@ The implementation includes:
 
 (Code file is available in the repository.)
 
+# Findings
+- Deep learning models outperform traditional forecasting methods in localized predictions.
+- Incorporating real-time satellite data significantly enhances forecast accuracy.
+- CNNs are effective in extracting weather-related features from satellite imagery.
+- Challenges include handling cloud occlusions and differentiating seasonal variations.
 
+# Conclusion
+This project successfully demonstrates that deep learning can be leveraged for weather prediction using satellite imagery. By training CNN models on high-resolution images, we have improved forecasting accuracy, particularly for short-term weather predictions. This research provides a foundation for further advancements in AI-based meteorology.
 
 
 
