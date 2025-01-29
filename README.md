@@ -37,6 +37,13 @@ The implementation includes:
 This project successfully demonstrates that deep learning can be leveraged for weather prediction using satellite imagery. By training CNN models on high-resolution images, we have improved forecasting accuracy, particularly for short-term weather predictions. This research provides a foundation for further advancements in AI-based meteorology.
 
 
+# Future Work
+- Expand dataset coverage by incorporating additional weather parameters (wind speed, humidity).
+- Improve real-time processing by optimizing computational efficiency.
+- Integrate multi-modal learning by combining satellite images with numerical weather prediction models.
+- Deploy the model as an API for real-world applications in agriculture and disaster management.
+
+
 
 
 
